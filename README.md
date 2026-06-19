@@ -2,7 +2,7 @@
  
 ## SVG animations of Hogwarts house icons: Gryffindor, Slytherin and Ravenclaw
 
-## Codepen: https://codepen.io/vladimirsaenko/pen/YzZBbGJ
+## Codepen: https://codepen.io/volodymyrsaienko240/pen/YzZBbGJ
 
 ![meme2](https://user-images.githubusercontent.com/56477695/132378647-d59efc49-757c-4555-92de-b2e2ffde0d19.jpg)
 
